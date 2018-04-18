@@ -4,6 +4,8 @@ Contains workshop material used for the [In Vision Day 2018 of TH Nürnberg](htt
 
 The workshops is used to explain microservice development with Spring Boot and Red Hat OpenShift as runtime environment.
 
+[Download Workshop Presentation](https://github.com/markuslohn/invision-day-2018/blob/master/microservices-with-springboot-openshift.pdf)
+
 It contains the following projects:
 
 - greetings: A simple REST services with Spring Boot
